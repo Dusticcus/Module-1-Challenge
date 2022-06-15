@@ -56,6 +56,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Large Background Image Styling */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -114,19 +116,19 @@ body {
     background-color: #2589bd;
 }
 
-/* Sidebar Content Styling */
+/* Benefits Content Styling */
 
-.sideContent {
+.benefitsContent {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.sideContent h3 {
+.benefitsContent h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.sideContent img {
+.benefitsContent img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -134,13 +136,13 @@ body {
 
 /* Footer Styling */
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
